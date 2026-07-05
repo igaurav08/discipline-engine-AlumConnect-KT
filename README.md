@@ -1,6 +1,7 @@
 # Project Discipline Engine MVP
 
 A personal project execution dashboard that tracks progress, calculates pace, and suggests the next best task based on impact, effort, and available time.
+It is designed specially for freshers and the managers to assist them during KT sessions and keep track of status of the tasks in the working environment.
 
 ## Tech Stack
 - **Backend:** FastAPI, SQLModel (SQLAlchemy + Pydantic), PostgreSQL
